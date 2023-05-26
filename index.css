@@ -31,7 +31,6 @@
 }
 
 .logo-sco-container {
-
     width: fit-content;
     align-items: start;
     display: flex;
@@ -41,6 +40,7 @@
 .intro {
     display: flex;
     width: 600px;
+    padding-bottom: 0px;
 
 }
 
@@ -52,7 +52,7 @@
 
 .skills-container{
     display: flex;
-    gap:20px;
+    gap:60px;
     padding-left: 20px;
 }
 
