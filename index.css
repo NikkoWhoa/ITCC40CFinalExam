@@ -8,17 +8,32 @@
 }
 
 .container1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     min-height: 100vh;
     background-color: #f0f0f0;
 }
 
 .hello 
 {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}
 
+.logo-sco {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    height: 40px;
 }
 
 
 
+
 .intro {
-    max-height: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: aquamarine;
 }
